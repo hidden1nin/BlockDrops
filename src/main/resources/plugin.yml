@@ -1,0 +1,8 @@
+name: BlockDrops
+version: ${project.version}
+main: com.hiddentech.blockdrops.BlockDrops
+authors: [ hidden1nin ]
+description: Blocks drops for a player until they do /drop
+commands:
+  drop:
+    usage: Toggles players ability to drop items.
